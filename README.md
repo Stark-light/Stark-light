@@ -10,8 +10,6 @@
 - Fault-Tolerant Distributed Cache (Java)
 - System Design + Advanced DSA
 
-📫 Reach me at: your-email@gmail.com
-
 
 
 <!--
