@@ -55,9 +55,19 @@ I enjoy building **scalable systems**, working close to **core CS fundamentals**
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: *Add your link*
-- 💻 LeetCode: *Add your link*
-- 📧 Email: dev.anjali.7y@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/anjali-yadav-8306a7298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/ay_stark" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  
+  <a href="mailto:dev.anjali.7y@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
