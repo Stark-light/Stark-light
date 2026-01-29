@@ -1,14 +1,110 @@
-👋 Hi, I'm Anjali Yadav  
-🎓 Final Year B.Tech (CSE)  
-💻 Aspiring Software Development Engineer  
+<h1 align="center">Hi 👋, I'm Anjali Yadav</h1>
+<h3 align="center">Final Year B.Tech CSE (AI) | Aspiring Software Development Engineer</h3>
 
-🔹 Strong in DSA, OOPs, OS, CN, DBMS  
-🔹 Building distributed systems & backend projects  
-🔹 Interested in MAANG / Product-Based Companies  
+---
 
-📌 Currently working on:
-- Fault-Tolerant Distributed Cache (Java)
-- System Design + Advanced DSA
+## 👩‍💻 About Me
+
+I'm a Computer Science undergraduate specializing in **AI & Software Development**, with hands-on experience in **full-stack development** and **AI/ML-driven cybersecurity** through internships at **DRDO** and **Government of India (DoT)**.
+
+I enjoy building **scalable systems**, working close to **core CS fundamentals**, and solving challenging problems through **clean, efficient code**.
+
+- 🎓 B.Tech CSE (AI) | GCET (2022–2026)
+- 🧠 Strong in **DSA, OOPs, OS, CN, DBMS**
+- 🧩 Solved **200+ problems on LeetCode**
+- 🚀 Actively preparing for **SDE roles (MAANG / PBC)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Authentication System (MERN)
+- Secure user authentication using **JWT**, **bcrypt**, and protected routes
+- Clean REST APIs with role-based access control  
+**Tech:** MongoDB, Express, React, Node.js
+
+---
+
+### 📚 ScholarLens – Research Paper Summarizer
+- AI-powered research summarizer with section-wise insights
+- Interactive Q&A and cross-paper comparison for researchers  
+**Tech:** NLP, ML, Python, MERN stack
+
+---
+
+### ☁️ Terraform AWS VPC + EC2
+- Infrastructure-as-Code project provisioning AWS VPC & EC2
+- Focus on scalable, reproducible cloud infrastructure  
+**Tech:** Terraform, AWS, Linux
+
+---
+
+### 🌐 Portfolio Website
+- Responsive portfolio with SEO optimization
+- Clean UI showcasing projects and certifications  
+**Tech:** HTML, CSS, JavaScript, Netlify
+
+---
+
+## 🏢 Experience
+
+**Summer Intern – DRDO (Delhi)**  
+- Built ML-based cybersecurity threat detection system  
+- Improved detection accuracy by **30%**
+- Optimized data pipelines reducing latency by **40%**
+
+**Software Development Intern – DoT (Govt. of India)**  
+- Developed demographic-based **data deduplication logic**
+- Improved database accuracy & reliability
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: *Add your link*
+- 💻 LeetCode: *Add your link*
+- 📧 Email: dev.anjali.7y@gmail.com
+
+---
+
+⭐ *“Code is not just written to work — it’s written to scale.”*
 
 
 
