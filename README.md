@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Yadav</h1>
-<h3 align="center">Final Year B.Tech CSE (AI) | Aspiring Software Development Engineer</h3>
+<h3 align="center">Final Year B.Tech CSE (AI) | Software Developer</h3>
 
 ---
 
@@ -41,49 +41,6 @@ I enjoy building **scalable systems**, working close to **core CS fundamentals**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Authentication System (MERN)
-- Secure user authentication using **JWT**, **bcrypt**, and protected routes
-- Clean REST APIs with role-based access control  
-**Tech:** MongoDB, Express, React, Node.js
-
----
-
-### 📚 ScholarLens – Research Paper Summarizer
-- AI-powered research summarizer with section-wise insights
-- Interactive Q&A and cross-paper comparison for researchers  
-**Tech:** NLP, ML, Python, MERN stack
-
----
-
-### ☁️ Terraform AWS VPC + EC2
-- Infrastructure-as-Code project provisioning AWS VPC & EC2
-- Focus on scalable, reproducible cloud infrastructure  
-**Tech:** Terraform, AWS, Linux
-
----
-
-### 🌐 Portfolio Website
-- Responsive portfolio with SEO optimization
-- Clean UI showcasing projects and certifications  
-**Tech:** HTML, CSS, JavaScript, Netlify
-
----
-
-## 🏢 Experience
-
-**Summer Intern – DRDO (Delhi)**  
-- Built ML-based cybersecurity threat detection system  
-- Improved detection accuracy by **30%**
-- Optimized data pipelines reducing latency by **40%**
-
-**Software Development Intern – DoT (Govt. of India)**  
-- Developed demographic-based **data deduplication logic**
-- Improved database accuracy & reliability
 
 ---
 
