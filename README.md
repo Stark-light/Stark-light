@@ -1,4 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Anjali Yadav  
+🎓 Final Year B.Tech (CSE)  
+💻 Aspiring Software Development Engineer  
+
+🔹 Strong in DSA, OOPs, OS, CN, DBMS  
+🔹 Building distributed systems & backend projects  
+🔹 Interested in MAANG / Product-Based Companies  
+
+📌 Currently working on:
+- Fault-Tolerant Distributed Cache (Java)
+- System Design + Advanced DSA
+
+📫 Reach me at: your-email@gmail.com
+
+
 
 <!--
 **Stark-light/Stark-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
