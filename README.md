@@ -11,7 +11,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
@@ -64,7 +64,7 @@
 </p>
 
 ---
-
+⭐ *“Code is not just written to work — it’s written to scale.”*
 
 
 <!--
