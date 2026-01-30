@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm 
+  Hi, I'm <br>
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6FA4FC&center=true&vCenter=true&width=500&lines=Anjali+Yadav" 
@@ -41,13 +41,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Stark-light&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Anjali's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stark-light&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stark-light&layout=compact&theme=tokyonight" />
 </p>
-
-
 
 ---
 
