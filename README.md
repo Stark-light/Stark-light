@@ -41,9 +41,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Stark-light&show_icons=true&theme=tokyonight&hide_border=true&icon_color=6FA4FC" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stark-light&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Stark-light&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Anjali's GitHub stats"
+  />
 </p>
+
 
 
 ---
