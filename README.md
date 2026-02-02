@@ -64,7 +64,7 @@
 </p>
 
 ---
-⭐ *“Code is not just written to work — it’s written to scale.”*
+⭐ *“As long as I live, there are Infinite chances.”*
 
 
 <!--
