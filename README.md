@@ -1,13 +1,10 @@
-<div align="center" style="border:3px solid #9AD0C2; border-radius:16px; padding:20px; width: fit-content; background:#F6FFF8">
+<div align="center">
 
-<h1 style="font-family: 'Courier New', monospace; margin-bottom:0;">
-  🌼 Anjali Yadav 🌼
-</h1>
+### 🌸 Anjali Yadav 🌸  
+*Software Developer | AI & ML*
 
-<p style="font-size:16px; margin-top:8px;">
-  👩‍💻 Software Developer <br>
-  🤖 AI / ML | 💡 Problem Solver
-</p>
+૮ ˶ᵔ ᵕ ᵔ˶ ა  
+Building cute things with smart code ✨
 
 </div>
 
