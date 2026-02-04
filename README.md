@@ -1,12 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FDF6C9&height=200&section=header&text=Anjali%20Yadav&fontSize=48&fontColor=4A6C6F" />
+</p>
 
-### 🌸 Anjali Yadav 🌸  
-*Software Developer | AI & ML*
-
-૮ ˶ᵔ ᵕ ᵔ˶ ა  
-Building cute things with smart code ✨
-
-</div>
+<h3 align="center" style="color:#6B9080;">
+  Software Developer | AI & ML Enthusiast
+</h3>
 
 
 ---
