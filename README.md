@@ -1,15 +1,16 @@
-<div align="center">
+<div align="center" style="border:3px solid #9AD0C2; border-radius:16px; padding:20px; width: fit-content; background:#F6FFF8">
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=rounded&color=FDF6C9&height=200&section=header&text=Anjali%20Yadav&fontSize=48&fontColor=4A6C6F&animation=none"
-  alt="banner"
-/>
+<h1 style="font-family: 'Courier New', monospace; margin-bottom:0;">
+  🌼 Anjali Yadav 🌼
+</h1>
 
-<h3 style="color:#6B9080;">
-  Software Developer 🌱 | AI & ML Enthusiast
-</h3>
+<p style="font-size:16px; margin-top:8px;">
+  👩‍💻 Software Developer <br>
+  🤖 AI / ML | 💡 Problem Solver
+</p>
 
 </div>
+
 
 ---
 
