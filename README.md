@@ -1,13 +1,15 @@
-<h1 align="center">
-  Hi, I'm <br>
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6FA4FC&center=true&vCenter=true&width=500&lines=Anjali+Yadav" 
-      alt="Typing SVG" 
-    />
-  </a>
-</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=rounded&color=FDF6C9&height=200&section=header&text=Anjali%20Yadav&fontSize=48&fontColor=4A6C6F&animation=none"
+  alt="banner"
+/>
+
+<h3 style="color:#6B9080;">
+  Software Developer 🌱 | AI & ML Enthusiast
+</h3>
+
+</div>
 
 ---
 
