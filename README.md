@@ -1,4 +1,4 @@
-![Anjali Yadav](https://capsule-render.vercel.app/api?type=rounded&color=FDF6C9&height=200&section=header&text=Anjali%20Yadav&fontSize=48&fontColor=4A6C6F)
+![Hey, I'm Anjali Yadav ⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚](https://capsule-render.vercel.app/api?type=rounded&color=FDF6C9&height=200&section=header&text=Anjali%20Yadav&fontSize=48&fontColor=4A6C6F)
 
 ### Software Developer | AI & ML Enthusiast
 
